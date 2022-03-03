@@ -1,4 +1,4 @@
-<?php
-
-
-echo "Hallo en Welkom!";
+<?php 
+    $score = 0; 
+    echo"$score";
+?>
